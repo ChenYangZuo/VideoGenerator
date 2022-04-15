@@ -17,5 +17,5 @@ This script generates these pictures into a 30 frame video encoded with avc1 and
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
